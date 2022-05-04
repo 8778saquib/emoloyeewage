@@ -7,6 +7,8 @@ namespace emp_wage1
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to employee wage camputation");
+            empcal ans = new empcal();
+            ans.checkingpresentORAbsent();
         }
     }
 }
