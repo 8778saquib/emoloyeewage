@@ -1,0 +1,13 @@
+/Users/saquib/Desktop/emp_wage1/emp_wage1/bin/Debug/netcoreapp3.1/emp_wage1.deps.json
+/Users/saquib/Desktop/emp_wage1/emp_wage1/bin/Debug/netcoreapp3.1/emp_wage1.runtimeconfig.json
+/Users/saquib/Desktop/emp_wage1/emp_wage1/bin/Debug/netcoreapp3.1/emp_wage1.runtimeconfig.dev.json
+/Users/saquib/Desktop/emp_wage1/emp_wage1/bin/Debug/netcoreapp3.1/emp_wage1.dll
+/Users/saquib/Desktop/emp_wage1/emp_wage1/bin/Debug/netcoreapp3.1/emp_wage1.pdb
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.csproj.AssemblyReference.cache
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.AssemblyInfoInputs.cache
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.AssemblyInfo.cs
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.csproj.CoreCompileInputs.cache
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.dll
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.pdb
+/Users/saquib/Desktop/emp_wage1/emp_wage1/obj/Debug/netcoreapp3.1/emp_wage1.genruntimeconfig.cache
