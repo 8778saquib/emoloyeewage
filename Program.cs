@@ -9,6 +9,9 @@ namespace emp_wage1
             Console.WriteLine("welcome to employee wage camputation");
             empcal ans = new empcal();
             ans.checkingpresentORAbsent();
+            ans.caldailywage();
+
+
         }
     }
 }
