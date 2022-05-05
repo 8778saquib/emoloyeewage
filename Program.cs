@@ -10,7 +10,7 @@ namespace emp_wage1
             empcal ans = new empcal();
             ans.checkingpresentORAbsent();
             ans.caldailywage();
-
+            ans.parttimeornot();
 
         }
     }
