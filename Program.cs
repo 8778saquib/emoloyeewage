@@ -11,7 +11,8 @@ namespace emp_wage1
             ans.checkingpresentORAbsent();
             ans.caldailywage();
             ans.parttimeornot();
-
+            ans.usingswitch();
+            ans.monthwage();
         }
     }
 }
